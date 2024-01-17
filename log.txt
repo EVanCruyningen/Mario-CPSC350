@@ -1,0 +1,1211 @@
+Levels are zero indexed. The level above each paragraph of text is before he does the move outlined in the text. 
+Level 0 Layout: 
+KKGCX
+MKCCK
+MGKXG
+XXHWM
+MCGGX
+=============
+
+KKGCX
+MKCCK
+MGKXG
+XXHWM
+MCGGX
+Mario is at: 2, 3.   Current Level: 0.   Current Lives: 5.   Current Coins: 0.   Current Power Level: 0Mario will move right. 
+Mario has warped. 
+=============
+
+KGXMG
+CMCKC
+GCMKK
+XWXGX
+HCCCM
+Mario is at: 0, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 0.   Current Power Level: 0Mario will move right. 
+Mario has collected a coin. 
+=============
+
+KGXMG
+CMCKC
+GCMKK
+XWXGX
+XHCCM
+Mario is at: 1, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 1.   Current Power Level: 0Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+KGXMG
+CMCKC
+GCMKK
+XWXGX
+HXCCM
+Mario is at: 0, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 1.   Current Power Level: 0Mario will move down. 
+Mario has fought a regular enemy and won. 
+=============
+
+HGXMG
+CMCKC
+GCMKK
+XWXGX
+XXCCM
+Mario is at: 0, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 1.   Current Power Level: 0Mario will move down. 
+Mario has collected a coin. 
+=============
+
+XGXMG
+HMCKC
+GCMKK
+XWXGX
+XXCCM
+Mario is at: 0, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 2.   Current Power Level: 0Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+HGXMG
+XMCKC
+GCMKK
+XWXGX
+XXCCM
+Mario is at: 0, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 2.   Current Power Level: 0Mario will move left. 
+Mario has fought a regular enemy and won. 
+=============
+
+XGXMH
+XMCKC
+GCMKK
+XWXGX
+XXCCM
+Mario is at: 4, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 2.   Current Power Level: 0Mario will move up. 
+Mario has collected a mushroom. Power Level Up! 
+=============
+
+XGXMX
+XMCKC
+GCMKK
+XWXGX
+XXCCH
+Mario is at: 4, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 2.   Current Power Level: 1Mario will move left. 
+Mario has collected a coin. 
+=============
+
+XGXMX
+XMCKC
+GCMKK
+XWXGX
+XXCHX
+Mario is at: 3, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 3.   Current Power Level: 1Mario will move up. 
+Mario has fought a regular enemy and won. 
+=============
+
+XGXMX
+XMCKC
+GCMKK
+XWXHX
+XXCXX
+Mario is at: 3, 3.   Current Level: 1.   Current Lives: 5.   Current Coins: 3.   Current Power Level: 1Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XGXMX
+XMCKC
+GCMKK
+XWXXH
+XXCXX
+Mario is at: 4, 3.   Current Level: 1.   Current Lives: 5.   Current Coins: 3.   Current Power Level: 1Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XGXMX
+XMCKC
+GCMKK
+HWXXX
+XXCXX
+Mario is at: 0, 3.   Current Level: 1.   Current Lives: 5.   Current Coins: 3.   Current Power Level: 1Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XGXMX
+XMCKC
+GCMKK
+XWXXH
+XXCXX
+Mario is at: 4, 3.   Current Level: 1.   Current Lives: 5.   Current Coins: 3.   Current Power Level: 1Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XGXMX
+XMCKC
+GCMKK
+XWXHX
+XXCXX
+Mario is at: 3, 3.   Current Level: 1.   Current Lives: 5.   Current Coins: 3.   Current Power Level: 1Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XGXMX
+XMCKC
+GCMKK
+XWHXX
+XXCXX
+Mario is at: 2, 3.   Current Level: 1.   Current Lives: 5.   Current Coins: 3.   Current Power Level: 1Mario will move up. 
+Mario has collected a mushroom. Power Level Up! 
+=============
+
+XGXMX
+XMCKC
+GCHKK
+XWXXX
+XXCXX
+Mario is at: 2, 2.   Current Level: 1.   Current Lives: 5.   Current Coins: 3.   Current Power Level: 2Mario will move right. 
+Mario has fought a regular enemy and won. 
+=============
+
+XGXMX
+XMCKC
+GCXHK
+XWXXX
+XXCXX
+Mario is at: 3, 2.   Current Level: 1.   Current Lives: 5.   Current Coins: 3.   Current Power Level: 2Mario will move right. 
+Mario has fought a regular enemy and won. 
+=============
+
+XGXMX
+XMCKC
+GCXXH
+XWXXX
+XXCXX
+Mario is at: 4, 2.   Current Level: 1.   Current Lives: 5.   Current Coins: 3.   Current Power Level: 2Mario will move up. 
+Mario has collected a coin. 
+=============
+
+XGXMX
+XMCKH
+GCXXX
+XWXXX
+XXCXX
+Mario is at: 4, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 4.   Current Power Level: 2Mario will move left. 
+Mario has fought a regular enemy and won. 
+=============
+
+XGXMX
+XMCHX
+GCXXX
+XWXXX
+XXCXX
+Mario is at: 3, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 4.   Current Power Level: 2Mario will move left. 
+Mario has collected a coin. 
+=============
+
+XGXMX
+XMHXX
+GCXXX
+XWXXX
+XXCXX
+Mario is at: 2, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XGXMX
+XMXXX
+GCHXX
+XWXXX
+XXCXX
+Mario is at: 2, 2.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XGXMX
+XMHXX
+GCXXX
+XWXXX
+XXCXX
+Mario is at: 2, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XGXMX
+XMXXX
+GCHXX
+XWXXX
+XXCXX
+Mario is at: 2, 2.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XGXMX
+XMHXX
+GCXXX
+XWXXX
+XXCXX
+Mario is at: 2, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move left. 
+Mario has collected a mushroom. Power Level Up! 
+=============
+
+XGXMX
+XHXXX
+GCXXX
+XWXXX
+XXCXX
+Mario is at: 1, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move up. 
+Mario has fought a regular enemy and won. 
+=============
+
+XHXMX
+XXXXX
+GCXXX
+XWXXX
+XXCXX
+Mario is at: 1, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+XHCXX
+Mario is at: 1, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+HXCXX
+Mario is at: 0, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+HXXMX
+XXXXX
+GCXXX
+XWXXX
+XXCXX
+Mario is at: 0, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+HXCXX
+Mario is at: 0, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+XXCXH
+Mario is at: 4, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XXXMH
+XXXXX
+GCXXX
+XWXXX
+XXCXX
+Mario is at: 4, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+XXCXH
+Mario is at: 4, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+HXCXX
+Mario is at: 0, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+HXXMX
+XXXXX
+GCXXX
+XWXXX
+XXCXX
+Mario is at: 0, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXMH
+XXXXX
+GCXXX
+XWXXX
+XXCXX
+Mario is at: 4, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+XXCXH
+Mario is at: 4, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+XXCHX
+Mario is at: 3, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 5.   Current Power Level: 2Mario will move left. 
+Mario has collected a coin. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+XXHXX
+Mario is at: 2, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+XHXXX
+Mario is at: 1, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+XXHXX
+Mario is at: 2, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+XHXXX
+Mario is at: 1, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XHXMX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 1, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+XHXXX
+Mario is at: 1, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XHXMX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 1, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+HXXMX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 0, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+HXXXX
+Mario is at: 0, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+HXXMX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 0, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XHXMX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 1, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+XHXXX
+Mario is at: 1, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+XXHXX
+Mario is at: 2, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXMX
+XXXXX
+GCXXX
+XWXXX
+XHXXX
+Mario is at: 1, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XHXMX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 1, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXHMX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 2, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move right. 
+Mario has collected a mushroom. Power Level Up! 
+=============
+
+XXXHX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 3, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXHX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 3, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXH
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+HXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 0, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 2Mario will move down. 
+
+=============
+
+XXXXX
+HXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 0, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XHXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 1, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XHXXX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 1, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+XWXXX
+XHXXX
+Mario is at: 1, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+XWXXX
+XXHXX
+Mario is at: 2, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+XWXXX
+XXXHX
+Mario is at: 3, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XXXHX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 3, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXXH
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+HXXXX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 0, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+XWXXX
+HXXXX
+Mario is at: 0, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+HXXXX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 0, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+HXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 0, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXH
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXH
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+HXXXX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 0, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXXH
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXH
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXH
+XWXXX
+XXXXX
+Mario is at: 4, 2.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXH
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+HXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 0, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXH
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXH
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+XWXXX
+XXXXH
+Mario is at: 4, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+XWXXX
+HXXXX
+Mario is at: 0, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+HXXXX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 0, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXXH
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+XWXXX
+XXXXH
+Mario is at: 4, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+XWXXX
+XXXHX
+Mario is at: 3, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XXXHX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 3, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXXH
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+XWXXX
+XXXXH
+Mario is at: 4, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+XWXXH
+XXXXX
+Mario is at: 4, 3.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXH
+XWXXX
+XXXXX
+Mario is at: 4, 2.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXH
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXH
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXHX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 3, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXXH
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXH
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXH
+XWXXX
+XXXXX
+Mario is at: 4, 2.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXH
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXH
+XWXXX
+XXXXX
+Mario is at: 4, 2.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 1Mario will move right. 
+
+=============
+
+XXXXX
+XXXXX
+GCXXH
+XWXXX
+XXXXX
+Mario is at: 4, 2.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 0Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXH
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 0Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+HXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 0, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 0Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXH
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 1.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 0Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXH
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 4, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 0Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXHX
+XXXXX
+GCXXX
+XWXXX
+XXXXX
+Mario is at: 3, 0.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 0Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+XWXXX
+XXXHX
+Mario is at: 3, 4.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 0Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+XWXHX
+XXXXX
+Mario is at: 3, 3.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 0Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+XWXXH
+XXXXX
+Mario is at: 4, 3.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 0Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+XWXHX
+XXXXX
+Mario is at: 3, 3.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 0Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXHX
+XWXXX
+XXXXX
+Mario is at: 3, 2.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 0Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXH
+XWXXX
+XXXXX
+Mario is at: 4, 2.   Current Level: 1.   Current Lives: 5.   Current Coins: 6.   Current Power Level: 0Mario will move right. 
+Mario has fought a regular enemy and lost. 
+=============
+
+XXXXX
+XXXXX
+GCXXH
+XWXXX
+XXXXX
+Mario is at: 4, 2.   Current Level: 1.   Current Lives: 4.   Current Coins: 6.   Current Power Level: 0Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+XWXXH
+XXXXX
+Mario is at: 4, 3.   Current Level: 1.   Current Lives: 4.   Current Coins: 6.   Current Power Level: 0Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+GCXXX
+HWXXX
+XXXXX
+Mario is at: 0, 3.   Current Level: 1.   Current Lives: 4.   Current Coins: 6.   Current Power Level: 0Mario will move up. 
+Mario has fought a regular enemy and won. 
+=============
+
+XXXXX
+XXXXX
+HCXXX
+XWXXX
+XXXXX
+Mario is at: 0, 2.   Current Level: 1.   Current Lives: 4.   Current Coins: 6.   Current Power Level: 0Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+XCXXX
+HWXXX
+XXXXX
+Mario is at: 0, 3.   Current Level: 1.   Current Lives: 4.   Current Coins: 6.   Current Power Level: 0Mario will move up. 
+Mario has moved to an empty square. 
+=============
+
+XXXXX
+XXXXX
+HCXXX
+XWXXX
+XXXXX
+Mario is at: 0, 2.   Current Level: 1.   Current Lives: 4.   Current Coins: 6.   Current Power Level: 0Mario will move right. 
+Mario has collected a coin. 
+=============
+
+XXXXX
+XXXXX
+XHXXX
+XWXXX
+XXXXX
+Mario is at: 1, 2.   Current Level: 1.   Current Lives: 4.   Current Coins: 7.   Current Power Level: 0Mario will move down. 
+Mario has warped. 
+=============
+
+MMGCB
+XXMXM
+XXCKH
+CMCXX
+MXMCG
+Mario is at: 4, 2.   Current Level: 2.   Current Lives: 4.   Current Coins: 7.   Current Power Level: 0Mario will move up. 
+Mario has collected a mushroom. Power Level Up! 
+=============
+
+MMGCB
+XXMXH
+XXCKX
+CMCXX
+MXMCG
+Mario is at: 4, 1.   Current Level: 2.   Current Lives: 4.   Current Coins: 7.   Current Power Level: 1Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+MMGCB
+HXMXX
+XXCKX
+CMCXX
+MXMCG
+Mario is at: 0, 1.   Current Level: 2.   Current Lives: 4.   Current Coins: 7.   Current Power Level: 1Mario will move up. 
+Mario has collected a mushroom. Power Level Up! 
+=============
+
+HMGCB
+XXMXX
+XXCKX
+CMCXX
+MXMCG
+Mario is at: 0, 0.   Current Level: 2.   Current Lives: 4.   Current Coins: 7.   Current Power Level: 2Mario will move right. 
+Mario has collected a mushroom. Power Level Up! 
+=============
+
+XHGCB
+XXMXX
+XXCKX
+CMCXX
+MXMCG
+Mario is at: 1, 0.   Current Level: 2.   Current Lives: 4.   Current Coins: 7.   Current Power Level: 2Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+HXGCB
+XXMXX
+XXCKX
+CMCXX
+MXMCG
+Mario is at: 0, 0.   Current Level: 2.   Current Lives: 4.   Current Coins: 7.   Current Power Level: 2Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XXGCB
+HXMXX
+XXCKX
+CMCXX
+MXMCG
+Mario is at: 0, 1.   Current Level: 2.   Current Lives: 4.   Current Coins: 7.   Current Power Level: 2Mario will move right. 
+Mario has moved to an empty square. 
+=============
+
+XXGCB
+XHMXX
+XXCKX
+CMCXX
+MXMCG
+Mario is at: 1, 1.   Current Level: 2.   Current Lives: 4.   Current Coins: 7.   Current Power Level: 2Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XXGCB
+XXMXX
+XHCKX
+CMCXX
+MXMCG
+Mario is at: 1, 2.   Current Level: 2.   Current Lives: 4.   Current Coins: 7.   Current Power Level: 2Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXGCB
+XXMXX
+HXCKX
+CMCXX
+MXMCG
+Mario is at: 0, 2.   Current Level: 2.   Current Lives: 4.   Current Coins: 7.   Current Power Level: 2Mario will move left. 
+Mario has moved to an empty square. 
+=============
+
+XXGCB
+XXMXX
+XXCKH
+CMCXX
+MXMCG
+Mario is at: 4, 2.   Current Level: 2.   Current Lives: 4.   Current Coins: 7.   Current Power Level: 2Mario will move down. 
+Mario has moved to an empty square. 
+=============
+
+XXGCB
+XXMXX
+XXCKX
+CMCXH
+MXMCG
+Mario is at: 4, 3.   Current Level: 2.   Current Lives: 4.   Current Coins: 7.   Current Power Level: 2Mario will move down. 
+Mario has fought a regular enemy and won. 
+=============
+
+XXGCB
+XXMXX
+XXCKX
+CMCXX
+MXMCH
+Mario is at: 4, 4.   Current Level: 2.   Current Lives: 4.   Current Coins: 7.   Current Power Level: 2Mario will move down. 
+Mario has fought a boss and saved the princess! Good Game! 
+=============
+Final Board Layout: 
+XXGCH
+XXMXX
+XXCKX
+CMCXX
+MXMCX

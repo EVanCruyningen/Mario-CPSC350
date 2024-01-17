@@ -1,0 +1,377 @@
+
+MMKCM
+XMMGX
+KXMKK
+XGBKX
+CKKHM
+Current Level: 0.   Current Lives: 3.   Current Coins: 0.   Current Power Level:0
+
+MMKCM
+XMMGX
+KXMKK
+XGBHX
+CKKXM
+Current Level: 0.   Current Lives: 3.   Current Coins: 0.   Current Power Level:0
+
+MMKCM
+XMMGX
+KXMKK
+XGBXH
+CKKXM
+Current Level: 0.   Current Lives: 3.   Current Coins: 0.   Current Power Level:0
+
+MMKCM
+XMMGX
+KXMKK
+HGBXX
+CKKXM
+Current Level: 0.   Current Lives: 3.   Current Coins: 0.   Current Power Level:0
+
+MMKCM
+XMMGX
+KXMKK
+XHBXX
+CKKXM
+Current Level: 0.   Current Lives: 3.   Current Coins: 0.   Current Power Level:0
+
+MMKCM
+XMMGX
+KHMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 3.   Current Coins: 0.   Current Power Level:0
+
+MMKCM
+XMMGX
+KHMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:0
+
+MMKCM
+XHMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:1
+
+MMKCM
+HXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:1
+
+MMKCM
+XXMGH
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:1
+
+MMKCM
+HXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:1
+
+HMKCM
+XXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+XMKCM
+HXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+XMKCM
+XXMGH
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+XMKCM
+HXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+XMKCM
+XXMGH
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+XMKCM
+HXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+HMKCM
+XXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+XMKCH
+XXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+HMKCX
+XXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+XHKCX
+XXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+HXKCX
+XXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+XHKCX
+XXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+XXHCX
+XXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+XHXCX
+XXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+XXHCX
+XXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+XHXCX
+XXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+XXHCX
+XXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 0.   Current Power Level:2
+
+XXXHX
+XXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 1.   Current Power Level:2
+
+XXHXX
+XXMGX
+KXMKK
+XXBXX
+CKKXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 1.   Current Power Level:2
+
+XXXXX
+XXMGX
+KXMKK
+XXBXX
+CKHXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 1.   Current Power Level:2
+
+XXHXX
+XXMGX
+KXMKK
+XXBXX
+CKXXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 1.   Current Power Level:2
+
+XHXXX
+XXMGX
+KXMKK
+XXBXX
+CKXXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 1.   Current Power Level:2
+
+XXXXX
+XHMGX
+KXMKK
+XXBXX
+CKXXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 1.   Current Power Level:2
+
+XHXXX
+XXMGX
+KXMKK
+XXBXX
+CKXXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 1.   Current Power Level:2
+
+XXXXX
+XHMGX
+KXMKK
+XXBXX
+CKXXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 1.   Current Power Level:2
+
+XXXXX
+XXMGX
+KHMKK
+XXBXX
+CKXXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 1.   Current Power Level:2
+
+XXXXX
+XHMGX
+KXMKK
+XXBXX
+CKXXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 1.   Current Power Level:2
+
+XHXXX
+XXMGX
+KXMKK
+XXBXX
+CKXXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 1.   Current Power Level:2
+
+HXXXX
+XXMGX
+KXMKK
+XXBXX
+CKXXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 1.   Current Power Level:2
+
+XXXXX
+XXMGX
+KXMKK
+XXBXX
+HKXXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 2.   Current Power Level:2
+
+HXXXX
+XXMGX
+KXMKK
+XXBXX
+XKXXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 2.   Current Power Level:2
+
+XHXXX
+XXMGX
+KXMKK
+XXBXX
+XKXXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 2.   Current Power Level:2
+
+XXHXX
+XXMGX
+KXMKK
+XXBXX
+XKXXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 2.   Current Power Level:2
+
+XXXXX
+XXMGX
+KXMKK
+XXBXX
+XKHXM
+Current Level: 0.   Current Lives: 2.   Current Coins: 2.   Current Power Level:2
+
+GCGXK
+XXMXM
+XCKCH
+MMGKK
+KMXCB
+Current Level: 1.   Current Lives: 2.   Current Coins: 2.   Current Power Level:2
+
+GCGXK
+XXMXH
+XCKCX
+MMGKK
+KMXCB
+Current Level: 1.   Current Lives: 2.   Current Coins: 2.   Current Power Level:2
+
+GCGXK
+HXMXX
+XCKCX
+MMGKK
+KMXCB
+Current Level: 1.   Current Lives: 2.   Current Coins: 2.   Current Power Level:2
+
+GCGXK
+XXMXX
+HCKCX
+MMGKK
+KMXCB
+Current Level: 1.   Current Lives: 2.   Current Coins: 2.   Current Power Level:2
+
+GCGXK
+XXMXX
+XCKCH
+MMGKK
+KMXCB
+Current Level: 1.   Current Lives: 2.   Current Coins: 2.   Current Power Level:2
+
+GCGXK
+XXMXX
+XCKCX
+MMGKH
+KMXCB
+Current Level: 1.   Current Lives: 2.   Current Coins: 2.   Current Power Level:2
+
+GCGXK
+XXMXX
+XCKCX
+MMGHX
+KMXCB
+Current Level: 1.   Current Lives: 2.   Current Coins: 2.   Current Power Level:2
+
+GCGXK
+XXMXX
+XCKCX
+MMGXX
+KMXHB
+Current Level: 1.   Current Lives: 2.   Current Coins: 3.   Current Power Level:2
+Final Board Layout: 
+GCGXK
+XXMXX
+XCKCX
+MMGXX
+KMXXH
